@@ -1,0 +1,16 @@
+
+body{
+    padding: 50px;
+}
+
+.flag{
+    padding: 80px 15px;
+    text-align: center;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    border: 0;
+}
